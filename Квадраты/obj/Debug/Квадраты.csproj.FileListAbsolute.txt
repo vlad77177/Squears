@@ -1,0 +1,13 @@
+C:\Проэкты\VisualStudioE2012\Квадраты\Квадраты\bin\Debug\Квадраты.exe.config
+C:\Проэкты\VisualStudioE2012\Квадраты\Квадраты\obj\Debug\Квадраты.csprojResolveAssemblyReference.cache
+C:\Проэкты\VisualStudioE2012\Квадраты\Квадраты\obj\Debug\Квадраты.Form1.resources
+C:\Проэкты\VisualStudioE2012\Квадраты\Квадраты\obj\Debug\Квадраты.Properties.Resources.resources
+C:\Проэкты\VisualStudioE2012\Квадраты\Квадраты\obj\Debug\Квадраты.csproj.GenerateResource.Cache
+C:\Проэкты\VisualStudioE2012\Квадраты\Квадраты\bin\Debug\Квадраты.exe
+C:\Проэкты\VisualStudioE2012\Квадраты\Квадраты\bin\Debug\Квадраты.pdb
+C:\Проэкты\VisualStudioE2012\Квадраты\Квадраты\obj\Debug\Квадраты.exe
+C:\Проэкты\VisualStudioE2012\Квадраты\Квадраты\obj\Debug\Квадраты.pdb
+C:\Проэкты\VisualStudioE2012\Квадраты\Квадраты\obj\Debug\Квадраты.Resource1.resources
+H:\SPECIAL\Проэкты\VisualStudioE2012\Квадраты\Квадраты\bin\Debug\Квадраты.exe.config
+H:\SPECIAL\Проэкты\VisualStudioE2012\Квадраты\Квадраты\obj\Debug\Квадраты.exe
+H:\SPECIAL\Проэкты\VisualStudioE2012\Квадраты\Квадраты\obj\Debug\Квадраты.pdb
